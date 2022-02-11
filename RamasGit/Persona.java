@@ -6,7 +6,9 @@ package RamasGit;
  * and open the template in the editor.
  */
 import java.util.regex.Pattern;
+
 /*adfasdfasd*/
+
 public class Persona {
 
     private String dni;
@@ -40,41 +42,7 @@ public class Persona {
         this.edad = edad;
     }
 
-    public String getDni() {
-        return dni;
-    }
-
-    public void setDni(String dni) {
-        this.dni = dni;
-    }
-
-    public String getNombre() {
-        return nombre;
-    }
-
-    public void setNombre(String nombre) {
-        this.nombre = nombre;
-    }
-
-    public String getApellidos() {
-        return apellidos;
-    }
-
-    public void setApellidos(String apellidos) {
-        this.apellidos = apellidos;
-    }
-
-    public int getEdad() {
-        return this.edad; 
-    }
-
-    public void setEdad(int edad) {
-        this.edad = edad;
-    }
-
-    public void updateEdad() {
-        this.edad = this.edad + 1;
-        
+  
     }
 
     // Devuelve si es menor o no
