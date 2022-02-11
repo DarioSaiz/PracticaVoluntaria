@@ -6,7 +6,7 @@ package RamasGit;
  * and open the template in the editor.
  */
 import java.util.regex.Pattern;
-
+/*adfasdfasd*/
 public class Persona {
 
     private String dni;
